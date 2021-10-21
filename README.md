@@ -9,3 +9,6 @@ Text and layout formatting is using 'markdown' syntaxt (instead of more complica
 * https://guides.github.com/features/mastering-markdown/
 
 So you think you pro now or something?  Dean is actually getting much worse than before, haha, work is absolute hell lately!
+
+*BTW, here's a link to my repo and the test site I just created.  Edit this readme to remove these comments, fool!*
+*https://github.com/dsafro/sites-test*
